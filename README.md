@@ -2,9 +2,6 @@
 
 A hands-on Excel project that applies core spreadsheet skills to three small datasets: **student grades**, **sales records** and **employee data**. Every result is calculated with formulas, so the workbook updates automatically when the data changes.
 
-**Author:** Priyanka
-**File:** `PR_1_Fundamental_Booster_FINAL.xlsx`
-
 ---
 
 ## Topics Covered
